@@ -6,7 +6,7 @@
  * @n: the recent value
  * Return: Null
  */
-void _node(stack_t **nodepointer, int n)
+void inNode(stack_t **nodepointer, int n)
 {
 stack_t *steam, *beam;
 beam = *nodepointer;
